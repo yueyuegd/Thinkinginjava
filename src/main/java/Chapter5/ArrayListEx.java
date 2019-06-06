@@ -17,5 +17,6 @@ public class ArrayListEx {
         }
         list.add(String.valueOf(random.nextInt(100)));
         list.trimToSize();
+
     }
 }

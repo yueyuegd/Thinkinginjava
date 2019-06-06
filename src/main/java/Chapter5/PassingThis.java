@@ -1,4 +1,6 @@
+/*
 package Chapter5;
+
 class Person{
 	public void eat(Apple apple){
 		Apple peeled= apple.getPeeled();
@@ -25,3 +27,4 @@ public class PassingThis {
 	}
 
 }
+*/
