@@ -16,6 +16,14 @@ public class Person {
         this.age = age;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public Integer getAge() {
+        return age;
+    }
+
     public Person(String name) {
         this.name = name;
     }
